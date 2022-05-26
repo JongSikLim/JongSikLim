@@ -3,7 +3,7 @@
 
 ##### Who am I?
 - Software Engineer
-- Worked as Front-end & Back-end
+- Worked as Front-end
 - Interested in UX & FE
 - Making the world smarter.
 
